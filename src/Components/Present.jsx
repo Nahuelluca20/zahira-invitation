@@ -22,7 +22,7 @@ function Present() {
           <Collapse in={isOpen} animateOpacity>
             <Box>
               <Text textAlign={"center"} fontSize={"18px"} color="white" px={"20px"} pt={"10px"}>
-                CBU: 0000003 100094475499331
+                CBU: 0000003100094475499331
               </Text>
               <Text textAlign={"center"} fontSize={"18px"} color="white" px={"20px"} pt={"10px"}>
                 Alias: Betilo85
